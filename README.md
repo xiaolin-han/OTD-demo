@@ -3,12 +3,18 @@ Share the OTD code of our paper published in IEEE TIP.
 
 This is the Matlab program of our paper 
 "Hyperspectral and Multispectral Image Fusion using Optimized Twin Dictionaries" 
-accepted by IEEE Transactions on Image Processing. ----------------------------------------------------------------------------------------------------
+accepted by IEEE Transactions on Image Processing. 
+
+----------------------------------------------------------------------------------------------------
+
 Copyright 2020
 Xiaolin Han, Tsinghua University, Dept.of Electronic Engineering;
 Jing Yu, Beijing University of Technology, Faculty of Information Technology;
 Jing-Hao Xue, University College London, Dept of Statistical Science;
-Weidong Sun, Tsinghua University, Dept.of Electronic Engineering. ----------------------------------------------------------------------------------------------------
+Weidong Sun, Tsinghua University, Dept.of Electronic Engineering. 
+
+----------------------------------------------------------------------------------------------------
+
 Use:
 The KSVD toolbox should be installed first.
 You can then run the program "main_OTD.m".
