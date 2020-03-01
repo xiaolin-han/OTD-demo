@@ -8,6 +8,7 @@ accepted by IEEE Transactions on Image Processing.
 ----------------------------------------------------------------------------------------------------
 
 Copyright 2020
+
 Xiaolin Han, Tsinghua University, Dept.of Electronic Engineering;
 Jing Yu, Beijing University of Technology, Faculty of Information Technology;
 Jing-Hao Xue, University College London, Dept of Statistical Science;
