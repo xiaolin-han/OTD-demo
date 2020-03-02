@@ -3,7 +3,7 @@ Share the OTD code of our paper published in IEEE TIP.
 
 This is the Matlab program of our paper 
 "Hyperspectral and Multispectral Image Fusion using Optimized Twin Dictionaries" 
-accepted by IEEE Transactions on Image Processing. 
+in IEEE Transactions on Image Processing (DOI 10.1109/TIP.2020.2968773). 
 
 ----------------------------------------------------------------------------------------------------
 
