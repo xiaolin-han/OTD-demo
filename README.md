@@ -3,7 +3,7 @@ Share the OTD code of our paper published in IEEE TIP.
 
 This is the Matlab program of our paper 
 "Hyperspectral and Multispectral Image Fusion using Optimized Twin Dictionaries" 
-in IEEE Transactions on Image Processing (DOI 10.1109/TIP.2020.2968773). 
+in IEEE Transactions on Image Processing, vol. 29, pp. 4709-4720, 2020. 
 
 ----------------------------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ You can then run the program "main_OTD.m".
 
 For more details about the algorithm, please refer to our article.
 Citation:
-X. Han, J. Yu, J. Xue and W. Sun, "Hyperspectral and Multispectral Image Fusion using Optimized Twin Dictionaries," DOI 10.1109/TIP.2020.2968773, IEEE Transactions on Image Processing, 2020.
+X. Han, J. Yu, J. Xue and W. Sun, "Hyperspectral and Multispectral Image Fusion using Optimized Twin Dictionaries," IEEE Transactions on Image Processing, vol. 29, pp. 4709-4720, 2020.
 
 Disclaimer:
 Any unauthorized use of these routines for industrial or profit-oriented activities is expressively prohibited.
