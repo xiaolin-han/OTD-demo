@@ -29,5 +29,5 @@ Any unauthorized use of these routines for industrial or profit-oriented activit
 
 Questions/feedback:
 If you have any comment, suggestion, or question, please do
-contact Xiaolin Han: hxl15@mails.tsinghua.edu.cn
+contact Xiaolin Han: hxl15@tsinghua.org.cn
 or Weidong Sun: wdsun@tsinghua.edu.cn 
